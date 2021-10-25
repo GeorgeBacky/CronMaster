@@ -33,7 +33,7 @@ $(document).ready(function(){
 						<h2>Cron<b> Dashboard</b></h2>
 					</div>
 					<div class="col-sm-6">
-						<a href="#export2excel" class="btn btn-success"><i class="fas fa-file-excel"></i><span>Add New Employee</span></a>
+						<a href="#export2excel" class="btn btn-success"><i class="fas fa-file-excel"></i><span>Export To Excel</span></a>
 					</div>
 				</div>
 			</div>
