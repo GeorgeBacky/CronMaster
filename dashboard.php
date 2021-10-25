@@ -56,12 +56,6 @@ $(document).ready(function(){
 			<table class="table table-striped table-hover">
 				<thead>
 					<tr>
-						<th>
-							<span class="custom-checkbox">
-								<input type="checkbox" id="selectAll">
-								<label for="selectAll"></label>
-							</span>
-						</th>
 						<th>ID</th>
 						<th>Domain Name</th>
 						<th>Cron Root</th>
@@ -77,12 +71,6 @@ $(document).ready(function(){
 				</thead>
 				<tbody>
 					<tr>
-						<td>
-							<span class="custom-checkbox">
-								<input type="checkbox" id="checkbox1" name="options[]" value="1">
-								<label for="checkbox1"></label>
-							</span>
-						</td>
 						<td>55</td>
 						<td>example.com</td>
 						<td>/filesys/example.com/ggwp.php</td>
@@ -100,12 +88,6 @@ $(document).ready(function(){
                         </td>
 					</tr>
 					<tr>
-						<td>
-							<span class="custom-checkbox">
-								<input type="checkbox" id="checkbox2" name="options[]" value="1">
-								<label for="checkbox2"></label>
-							</span>
-						</td>
 						<td>56</td>
 						<td>example.com</td>
 						<td>/filesys/example.com/ggwp.php</td>
@@ -123,12 +105,6 @@ $(document).ready(function(){
                         </td>
 					</tr>
 					<tr>
-						<td>
-							<span class="custom-checkbox">
-								<input type="checkbox" id="checkbox3" name="options[]" value="1">
-								<label for="checkbox3"></label>
-							</span>
-						</td>
 						<td>57</td>
 						<td>example.com</td>
 						<td>/filesys/example.com/ggwp.php</td>
@@ -146,12 +122,6 @@ $(document).ready(function(){
                         </td>
 					</tr>
 					<tr>
-						<td>
-							<span class="custom-checkbox">
-								<input type="checkbox" id="checkbox4" name="options[]" value="1">
-								<label for="checkbox4"></label>
-							</span>
-						</td>
 						<td>58</td>
 						<td>example.com</td>
 						<td>/filesys/example.com/ggwp.php</td>
@@ -169,12 +139,6 @@ $(document).ready(function(){
                         </td>
 					</tr>					
 					<tr>
-						<td>
-							<span class="custom-checkbox">
-								<input type="checkbox" id="checkbox5" name="options[]" value="1">
-								<label for="checkbox5"></label>
-							</span>
-						</td>
 						<td>59</td>
 						<td>example.com</td>
 						<td>/filesys/example.com/ggwp.php</td>
