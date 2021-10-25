@@ -51,6 +51,9 @@ $(document).ready(function(){
 					<div class="col-sm-6">
 						<h2>Cron<b> Logs</b></h2>
 					</div>
+					<div class="col-sm-6">
+						<a href="#export2excel" class="btn btn-success"><i class="fas fa-file-excel"></i><span>Add New Employee</span></a>
+					</div>
 				</div>
 			</div>
 			<table class="table table-striped table-hover">
